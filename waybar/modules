@@ -77,7 +77,7 @@
   
   "wlr/workspaces": {
     "format": "{name}",
-    //"format": "{name}: {icon}",
+    //"format": "{icon}",
     "on-click": "activate",
     "all-outputs": true,
     "sort-by-number": true,

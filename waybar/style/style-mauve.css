@@ -12,7 +12,7 @@
    }
    
    window#waybar.hidden {
-       opacity: 0.5;
+       opacity: 0.1;
    }
    
    tooltip {
@@ -46,7 +46,7 @@
    }
    
    #workspaces button.active {
-       color: #cba6f7;
+       color: #28E2E2;
        border-radius: 15px 15px 15px 15px;
    }
    
@@ -103,7 +103,7 @@
    #custom-weather.snowyIcyNight,
    #custom-weather.default 
    #idle_inhibitor {
-       color: #cba7f7;
+       color: #2EECEC;
        padding: 0px 10px;
        border-radius:10px;
    }
